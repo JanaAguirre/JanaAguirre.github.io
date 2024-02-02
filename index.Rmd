@@ -1,16 +1,15 @@
 ---
 title: "Jana Carolina Aguirre Castañeda"
-image: "foto.jpeg"
+image: "Foto_UNAM_2024.jpeg"
 links:
   
   - label: GitHub
     url: "https://github.com/JanaAguirre"
   - label: Email
-    url: "jana.aguirre@ibt.unam.mx"
+    url: "mailto:jana.aguirre@ibt.unam.mx"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a senior undergraduate student majoring in Diagnostic Biochemistry at the National Autonomous University of Mexico (UNAM). I am really interested in the intricate molecular processes that underlie cell behavior,microbial-interactions, bioenergetics, cellular and developmental evolution and bioinformatics.
+Furthermore, due to the clinical focus of my major I am deeply interested in fortifying alternative models such as 3D cell cultures, organs-in-chip and organoids to enhace their clinical applicability. 
